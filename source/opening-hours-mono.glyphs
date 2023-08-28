@@ -2,7 +2,7 @@
 .appVersion = "3151";
 .formatVersion = 3;
 DisplayStrings = (
-Z
+"<energy>"
 );
 axes = (
 {
@@ -27042,6 +27042,362 @@ width = 350;
 }
 );
 unicode = 61;
+},
+{
+glyphname = greater;
+lastChange = "2023-08-28 14:10:30 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (50,0);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,50);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (150,100);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (200,150);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (150,200);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,250);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (50,300);
+ref = pixel;
+}
+);
+width = 350;
+},
+{
+layerId = "8182F09F-6DC6-4FDE-AB57-48FEFF6C47B8";
+shapes = (
+{
+alignment = -1;
+pos = (50,0);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,50);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (150,100);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (200,150);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (150,200);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,250);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (50,300);
+ref = pixel;
+}
+);
+width = 350;
+},
+{
+layerId = "B1299E9E-7DBC-4C29-A9C3-B076DB9F12E8";
+shapes = (
+{
+alignment = -1;
+pos = (50,0);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,50);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (150,100);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (200,150);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (150,200);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,250);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (50,300);
+ref = pixel;
+}
+);
+width = 350;
+},
+{
+layerId = "C9573CFB-C474-4B46-885F-119BC015D328";
+shapes = (
+{
+alignment = -1;
+pos = (20,0);
+ref = pixel;
+slant = (10,0);
+},
+{
+alignment = -1;
+pos = (78,50);
+ref = pixel;
+slant = (10,0);
+},
+{
+alignment = -1;
+pos = (138,100);
+ref = pixel;
+slant = (10,0);
+},
+{
+alignment = -1;
+pos = (195,150);
+ref = pixel;
+slant = (10,0);
+},
+{
+alignment = -1;
+pos = (155,200);
+ref = pixel;
+slant = (10,0);
+},
+{
+alignment = -1;
+pos = (113,250);
+ref = pixel;
+slant = (10,0);
+},
+{
+alignment = -1;
+pos = (73,300);
+ref = pixel;
+slant = (10,0);
+}
+);
+width = 350;
+}
+);
+unicode = 62;
+},
+{
+glyphname = less;
+lastChange = "2023-08-28 14:09:58 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (250,0);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (200,50);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (150,100);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,150);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (150,200);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (200,250);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (250,300);
+ref = pixel;
+}
+);
+width = 350;
+},
+{
+layerId = "8182F09F-6DC6-4FDE-AB57-48FEFF6C47B8";
+shapes = (
+{
+alignment = -1;
+pos = (250,0);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (200,50);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (150,100);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,150);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (150,200);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (200,250);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (250,300);
+ref = pixel;
+}
+);
+width = 350;
+},
+{
+layerId = "B1299E9E-7DBC-4C29-A9C3-B076DB9F12E8";
+shapes = (
+{
+alignment = -1;
+pos = (250,0);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (200,50);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (150,100);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,150);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (150,200);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (200,250);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (250,300);
+ref = pixel;
+}
+);
+width = 350;
+},
+{
+layerId = "C9573CFB-C474-4B46-885F-119BC015D328";
+shapes = (
+{
+alignment = -1;
+pos = (220,0);
+ref = pixel;
+slant = (10,0);
+},
+{
+alignment = -1;
+pos = (178,50);
+ref = pixel;
+slant = (10,0);
+},
+{
+alignment = -1;
+pos = (138,100);
+ref = pixel;
+slant = (10,0);
+},
+{
+alignment = -1;
+pos = (95,150);
+ref = pixel;
+slant = (10,0);
+},
+{
+alignment = -1;
+pos = (155,200);
+ref = pixel;
+slant = (10,0);
+},
+{
+alignment = -1;
+pos = (213,250);
+ref = pixel;
+slant = (10,0);
+},
+{
+alignment = -1;
+pos = (273,300);
+ref = pixel;
+slant = (10,0);
+}
+);
+width = 350;
+}
+);
+unicode = 60;
 },
 {
 glyphname = infinity;
